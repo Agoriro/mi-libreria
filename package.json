@@ -1,0 +1,12 @@
+{
+  "name": "mi-libreria",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sistema de librería en HTML, CSS y JavaScript para evaluación de interfaces accesibles.",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "test": "node --test",
+    "check": "node verificacion/auditoria.cjs",
+    "pages:prepare": "node scripts/preparar-pages.cjs"
+  }
+}

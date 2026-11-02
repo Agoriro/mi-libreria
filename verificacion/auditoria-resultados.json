@@ -1,0 +1,752 @@
+{
+  "paginas": 26,
+  "filas": [
+    {
+      "archivo": "guia-de-estilo.html",
+      "campos": 3,
+      "acciones": 6,
+      "sinEtiqueta": [],
+      "sinIcono": [],
+      "vocabulario": [],
+      "referenciasAusentes": [],
+      "idsRepetidos": false,
+      "estilosFueraTokens": false,
+      "estructura": true
+    },
+    {
+      "archivo": "pantallas/autores.html",
+      "campos": 1,
+      "acciones": 3,
+      "sinEtiqueta": [],
+      "sinIcono": [],
+      "vocabulario": [],
+      "referenciasAusentes": [],
+      "idsRepetidos": false,
+      "estilosFueraTokens": false,
+      "estructura": true
+    },
+    {
+      "archivo": "pantallas/casas-editoriales.html",
+      "campos": 2,
+      "acciones": 3,
+      "sinEtiqueta": [],
+      "sinIcono": [],
+      "vocabulario": [],
+      "referenciasAusentes": [],
+      "idsRepetidos": false,
+      "estilosFueraTokens": false,
+      "estructura": true
+    },
+    {
+      "archivo": "pantallas/cliente-proveedor-form.html",
+      "campos": 7,
+      "acciones": 2,
+      "sinEtiqueta": [],
+      "sinIcono": [],
+      "vocabulario": [],
+      "referenciasAusentes": [],
+      "idsRepetidos": false,
+      "estilosFueraTokens": false,
+      "estructura": true
+    },
+    {
+      "archivo": "pantallas/clientes-proveedores.html",
+      "campos": 2,
+      "acciones": 1,
+      "sinEtiqueta": [],
+      "sinIcono": [],
+      "vocabulario": [],
+      "referenciasAusentes": [],
+      "idsRepetidos": false,
+      "estilosFueraTokens": false,
+      "estructura": true
+    },
+    {
+      "archivo": "pantallas/compras.html",
+      "campos": 4,
+      "acciones": 7,
+      "sinEtiqueta": [],
+      "sinIcono": [],
+      "vocabulario": [],
+      "referenciasAusentes": [],
+      "idsRepetidos": false,
+      "estilosFueraTokens": false,
+      "estructura": true
+    },
+    {
+      "archivo": "pantallas/cuadre-del-dia.html",
+      "campos": 4,
+      "acciones": 4,
+      "sinEtiqueta": [],
+      "sinIcono": [],
+      "vocabulario": [],
+      "referenciasAusentes": [],
+      "idsRepetidos": false,
+      "estilosFueraTokens": false,
+      "estructura": true
+    },
+    {
+      "archivo": "pantallas/ganancias.html",
+      "campos": 2,
+      "acciones": 4,
+      "sinEtiqueta": [],
+      "sinIcono": [],
+      "vocabulario": [],
+      "referenciasAusentes": [],
+      "idsRepetidos": false,
+      "estilosFueraTokens": false,
+      "estructura": true
+    },
+    {
+      "archivo": "pantallas/impuestos.html",
+      "campos": 2,
+      "acciones": 4,
+      "sinEtiqueta": [],
+      "sinIcono": [],
+      "vocabulario": [],
+      "referenciasAusentes": [],
+      "idsRepetidos": false,
+      "estilosFueraTokens": false,
+      "estructura": true
+    },
+    {
+      "archivo": "pantallas/informe-compras.html",
+      "campos": 2,
+      "acciones": 4,
+      "sinEtiqueta": [],
+      "sinIcono": [],
+      "vocabulario": [],
+      "referenciasAusentes": [],
+      "idsRepetidos": false,
+      "estilosFueraTokens": false,
+      "estructura": true
+    },
+    {
+      "archivo": "pantallas/informe-ventas.html",
+      "campos": 2,
+      "acciones": 4,
+      "sinEtiqueta": [],
+      "sinIcono": [],
+      "vocabulario": [],
+      "referenciasAusentes": [],
+      "idsRepetidos": false,
+      "estilosFueraTokens": false,
+      "estructura": true
+    },
+    {
+      "archivo": "pantallas/informes.html",
+      "campos": 0,
+      "acciones": 0,
+      "sinEtiqueta": [],
+      "sinIcono": [],
+      "vocabulario": [],
+      "referenciasAusentes": [],
+      "idsRepetidos": false,
+      "estilosFueraTokens": false,
+      "estructura": true
+    },
+    {
+      "archivo": "pantallas/inicio.html",
+      "campos": 0,
+      "acciones": 0,
+      "sinEtiqueta": [],
+      "sinIcono": [],
+      "vocabulario": [],
+      "referenciasAusentes": [],
+      "idsRepetidos": false,
+      "estilosFueraTokens": false,
+      "estructura": true
+    },
+    {
+      "archivo": "pantallas/libro-form.html",
+      "campos": 6,
+      "acciones": 4,
+      "sinEtiqueta": [],
+      "sinIcono": [],
+      "vocabulario": [],
+      "referenciasAusentes": [],
+      "idsRepetidos": false,
+      "estilosFueraTokens": false,
+      "estructura": true
+    },
+    {
+      "archivo": "pantallas/libros-devueltos.html",
+      "campos": 5,
+      "acciones": 2,
+      "sinEtiqueta": [],
+      "sinIcono": [],
+      "vocabulario": [],
+      "referenciasAusentes": [],
+      "idsRepetidos": false,
+      "estilosFueraTokens": false,
+      "estructura": true
+    },
+    {
+      "archivo": "pantallas/libros-mas-y-menos-vendidos.html",
+      "campos": 4,
+      "acciones": 4,
+      "sinEtiqueta": [],
+      "sinIcono": [],
+      "vocabulario": [],
+      "referenciasAusentes": [],
+      "idsRepetidos": false,
+      "estilosFueraTokens": false,
+      "estructura": true
+    },
+    {
+      "archivo": "pantallas/libros.html",
+      "campos": 1,
+      "acciones": 2,
+      "sinEtiqueta": [],
+      "sinIcono": [],
+      "vocabulario": [],
+      "referenciasAusentes": [],
+      "idsRepetidos": false,
+      "estilosFueraTokens": false,
+      "estructura": true
+    },
+    {
+      "archivo": "pantallas/lo-que-debemos-pagar.html",
+      "campos": 2,
+      "acciones": 4,
+      "sinEtiqueta": [],
+      "sinIcono": [],
+      "vocabulario": [],
+      "referenciasAusentes": [],
+      "idsRepetidos": false,
+      "estilosFueraTokens": false,
+      "estructura": true
+    },
+    {
+      "archivo": "pantallas/lo-que-nos-deben.html",
+      "campos": 2,
+      "acciones": 4,
+      "sinEtiqueta": [],
+      "sinIcono": [],
+      "vocabulario": [],
+      "referenciasAusentes": [],
+      "idsRepetidos": false,
+      "estilosFueraTokens": false,
+      "estructura": true
+    },
+    {
+      "archivo": "pantallas/login.html",
+      "campos": 2,
+      "acciones": 3,
+      "sinEtiqueta": [],
+      "sinIcono": [],
+      "vocabulario": [],
+      "referenciasAusentes": [],
+      "idsRepetidos": false,
+      "estilosFueraTokens": false,
+      "estructura": true
+    },
+    {
+      "archivo": "pantallas/tipos-de-libro.html",
+      "campos": 1,
+      "acciones": 3,
+      "sinEtiqueta": [],
+      "sinIcono": [],
+      "vocabulario": [],
+      "referenciasAusentes": [],
+      "idsRepetidos": false,
+      "estilosFueraTokens": false,
+      "estructura": true
+    },
+    {
+      "archivo": "pantallas/usuario-clave.html",
+      "campos": 3,
+      "acciones": 5,
+      "sinEtiqueta": [],
+      "sinIcono": [],
+      "vocabulario": [],
+      "referenciasAusentes": [],
+      "idsRepetidos": false,
+      "estilosFueraTokens": false,
+      "estructura": true
+    },
+    {
+      "archivo": "pantallas/usuario-form.html",
+      "campos": 5,
+      "acciones": 2,
+      "sinEtiqueta": [],
+      "sinIcono": [],
+      "vocabulario": [],
+      "referenciasAusentes": [],
+      "idsRepetidos": false,
+      "estilosFueraTokens": false,
+      "estructura": true
+    },
+    {
+      "archivo": "pantallas/usuarios.html",
+      "campos": 0,
+      "acciones": 1,
+      "sinEtiqueta": [],
+      "sinIcono": [],
+      "vocabulario": [],
+      "referenciasAusentes": [],
+      "idsRepetidos": false,
+      "estilosFueraTokens": false,
+      "estructura": true
+    },
+    {
+      "archivo": "pantallas/venta-exito.html",
+      "campos": 0,
+      "acciones": 3,
+      "sinEtiqueta": [],
+      "sinIcono": [],
+      "vocabulario": [],
+      "referenciasAusentes": [],
+      "idsRepetidos": false,
+      "estilosFueraTokens": false,
+      "estructura": true
+    },
+    {
+      "archivo": "pantallas/ventas.html",
+      "campos": 5,
+      "acciones": 7,
+      "sinEtiqueta": [],
+      "sinIcono": [],
+      "vocabulario": [],
+      "referenciasAusentes": [],
+      "idsRepetidos": false,
+      "estilosFueraTokens": false,
+      "estructura": true
+    }
+  ],
+  "contrastes": [
+    {
+      "modo": "normal",
+      "texto": "ink",
+      "fondo": "cream",
+      "ratio": 12.461015282288773
+    },
+    {
+      "modo": "normal",
+      "texto": "ink",
+      "fondo": "surface",
+      "ratio": 13.475633971225117
+    },
+    {
+      "modo": "normal",
+      "texto": "ink",
+      "fondo": "success-bg",
+      "ratio": 11.738841379358337
+    },
+    {
+      "modo": "normal",
+      "texto": "ink",
+      "fondo": "warning-bg",
+      "ratio": 11.465385633546441
+    },
+    {
+      "modo": "normal",
+      "texto": "ink",
+      "fondo": "error-bg",
+      "ratio": 11.567643115837505
+    },
+    {
+      "modo": "normal",
+      "texto": "muted",
+      "fondo": "cream",
+      "ratio": 8.444037321872266
+    },
+    {
+      "modo": "normal",
+      "texto": "muted",
+      "fondo": "surface",
+      "ratio": 9.131579860161647
+    },
+    {
+      "modo": "normal",
+      "texto": "muted",
+      "fondo": "success-bg",
+      "ratio": 7.9546660105398646
+    },
+    {
+      "modo": "normal",
+      "texto": "muted",
+      "fondo": "warning-bg",
+      "ratio": 7.769362448092748
+    },
+    {
+      "modo": "normal",
+      "texto": "muted",
+      "fondo": "error-bg",
+      "ratio": 7.8386558385064244
+    },
+    {
+      "modo": "normal",
+      "texto": "primary",
+      "fondo": "cream",
+      "ratio": 8.561984559938267
+    },
+    {
+      "modo": "normal",
+      "texto": "primary",
+      "fondo": "surface",
+      "ratio": 9.25913076769913
+    },
+    {
+      "modo": "normal",
+      "texto": "primary",
+      "fondo": "success-bg",
+      "ratio": 8.065777656535365
+    },
+    {
+      "modo": "normal",
+      "texto": "primary",
+      "fondo": "warning-bg",
+      "ratio": 7.877885753634351
+    },
+    {
+      "modo": "normal",
+      "texto": "primary",
+      "fondo": "error-bg",
+      "ratio": 7.948147041714036
+    },
+    {
+      "modo": "normal",
+      "texto": "accent",
+      "fondo": "cream",
+      "ratio": 8.422932067724833
+    },
+    {
+      "modo": "normal",
+      "texto": "accent",
+      "fondo": "surface",
+      "ratio": 9.108756143689305
+    },
+    {
+      "modo": "normal",
+      "texto": "accent",
+      "fondo": "success-bg",
+      "ratio": 7.93478390421905
+    },
+    {
+      "modo": "normal",
+      "texto": "accent",
+      "fondo": "warning-bg",
+      "ratio": 7.749943494483226
+    },
+    {
+      "modo": "normal",
+      "texto": "accent",
+      "fondo": "error-bg",
+      "ratio": 7.819063691131921
+    },
+    {
+      "modo": "normal",
+      "texto": "danger",
+      "fondo": "cream",
+      "ratio": 7.803592512313415
+    },
+    {
+      "modo": "normal",
+      "texto": "danger",
+      "fondo": "surface",
+      "ratio": 8.438987833197945
+    },
+    {
+      "modo": "normal",
+      "texto": "danger",
+      "fondo": "success-bg",
+      "ratio": 7.351337962115882
+    },
+    {
+      "modo": "normal",
+      "texto": "danger",
+      "fondo": "warning-bg",
+      "ratio": 7.180088897563347
+    },
+    {
+      "modo": "normal",
+      "texto": "danger",
+      "fondo": "error-bg",
+      "ratio": 7.2441266749881725
+    },
+    {
+      "modo": "normal",
+      "texto": "focus",
+      "fondo": "cream",
+      "ratio": 7.681141681355975
+    },
+    {
+      "modo": "normal",
+      "texto": "focus",
+      "fondo": "surface",
+      "ratio": 8.306566634758347
+    },
+    {
+      "modo": "normal",
+      "texto": "focus",
+      "fondo": "success-bg",
+      "ratio": 7.235983727423379
+    },
+    {
+      "modo": "normal",
+      "texto": "focus",
+      "fondo": "warning-bg",
+      "ratio": 7.067421834224557
+    },
+    {
+      "modo": "normal",
+      "texto": "focus",
+      "fondo": "error-bg",
+      "ratio": 7.1304547566360075
+    },
+    {
+      "modo": "normal",
+      "texto": "border",
+      "fondo": "cream",
+      "ratio": 8.444037321872266
+    },
+    {
+      "modo": "normal",
+      "texto": "border",
+      "fondo": "surface",
+      "ratio": 9.131579860161647
+    },
+    {
+      "modo": "normal",
+      "texto": "border",
+      "fondo": "success-bg",
+      "ratio": 7.9546660105398646
+    },
+    {
+      "modo": "normal",
+      "texto": "border",
+      "fondo": "warning-bg",
+      "ratio": 7.769362448092748
+    },
+    {
+      "modo": "normal",
+      "texto": "border",
+      "fondo": "error-bg",
+      "ratio": 7.8386558385064244
+    },
+    {
+      "modo": "normal",
+      "texto": "surface",
+      "fondo": "primary",
+      "ratio": 9.25913076769913
+    },
+    {
+      "modo": "alto",
+      "texto": "ink",
+      "fondo": "cream",
+      "ratio": 16.621712916553317
+    },
+    {
+      "modo": "alto",
+      "texto": "ink",
+      "fondo": "surface",
+      "ratio": 16.621712916553317
+    },
+    {
+      "modo": "alto",
+      "texto": "ink",
+      "fondo": "success-bg",
+      "ratio": 16.621712916553317
+    },
+    {
+      "modo": "alto",
+      "texto": "ink",
+      "fondo": "warning-bg",
+      "ratio": 16.621712916553317
+    },
+    {
+      "modo": "alto",
+      "texto": "ink",
+      "fondo": "error-bg",
+      "ratio": 16.621712916553317
+    },
+    {
+      "modo": "alto",
+      "texto": "muted",
+      "fondo": "cream",
+      "ratio": 16.621712916553317
+    },
+    {
+      "modo": "alto",
+      "texto": "muted",
+      "fondo": "surface",
+      "ratio": 16.621712916553317
+    },
+    {
+      "modo": "alto",
+      "texto": "muted",
+      "fondo": "success-bg",
+      "ratio": 16.621712916553317
+    },
+    {
+      "modo": "alto",
+      "texto": "muted",
+      "fondo": "warning-bg",
+      "ratio": 16.621712916553317
+    },
+    {
+      "modo": "alto",
+      "texto": "muted",
+      "fondo": "error-bg",
+      "ratio": 16.621712916553317
+    },
+    {
+      "modo": "alto",
+      "texto": "primary",
+      "fondo": "cream",
+      "ratio": 16.621712916553317
+    },
+    {
+      "modo": "alto",
+      "texto": "primary",
+      "fondo": "surface",
+      "ratio": 16.621712916553317
+    },
+    {
+      "modo": "alto",
+      "texto": "primary",
+      "fondo": "success-bg",
+      "ratio": 16.621712916553317
+    },
+    {
+      "modo": "alto",
+      "texto": "primary",
+      "fondo": "warning-bg",
+      "ratio": 16.621712916553317
+    },
+    {
+      "modo": "alto",
+      "texto": "primary",
+      "fondo": "error-bg",
+      "ratio": 16.621712916553317
+    },
+    {
+      "modo": "alto",
+      "texto": "accent",
+      "fondo": "cream",
+      "ratio": 16.621712916553317
+    },
+    {
+      "modo": "alto",
+      "texto": "accent",
+      "fondo": "surface",
+      "ratio": 16.621712916553317
+    },
+    {
+      "modo": "alto",
+      "texto": "accent",
+      "fondo": "success-bg",
+      "ratio": 16.621712916553317
+    },
+    {
+      "modo": "alto",
+      "texto": "accent",
+      "fondo": "warning-bg",
+      "ratio": 16.621712916553317
+    },
+    {
+      "modo": "alto",
+      "texto": "accent",
+      "fondo": "error-bg",
+      "ratio": 16.621712916553317
+    },
+    {
+      "modo": "alto",
+      "texto": "danger",
+      "fondo": "cream",
+      "ratio": 16.621712916553317
+    },
+    {
+      "modo": "alto",
+      "texto": "danger",
+      "fondo": "surface",
+      "ratio": 16.621712916553317
+    },
+    {
+      "modo": "alto",
+      "texto": "danger",
+      "fondo": "success-bg",
+      "ratio": 16.621712916553317
+    },
+    {
+      "modo": "alto",
+      "texto": "danger",
+      "fondo": "warning-bg",
+      "ratio": 16.621712916553317
+    },
+    {
+      "modo": "alto",
+      "texto": "danger",
+      "fondo": "error-bg",
+      "ratio": 16.621712916553317
+    },
+    {
+      "modo": "alto",
+      "texto": "focus",
+      "fondo": "cream",
+      "ratio": 13.826487103995605
+    },
+    {
+      "modo": "alto",
+      "texto": "focus",
+      "fondo": "surface",
+      "ratio": 13.826487103995605
+    },
+    {
+      "modo": "alto",
+      "texto": "focus",
+      "fondo": "success-bg",
+      "ratio": 13.826487103995605
+    },
+    {
+      "modo": "alto",
+      "texto": "focus",
+      "fondo": "warning-bg",
+      "ratio": 13.826487103995605
+    },
+    {
+      "modo": "alto",
+      "texto": "focus",
+      "fondo": "error-bg",
+      "ratio": 13.826487103995605
+    },
+    {
+      "modo": "alto",
+      "texto": "border",
+      "fondo": "cream",
+      "ratio": 16.621712916553317
+    },
+    {
+      "modo": "alto",
+      "texto": "border",
+      "fondo": "surface",
+      "ratio": 16.621712916553317
+    },
+    {
+      "modo": "alto",
+      "texto": "border",
+      "fondo": "success-bg",
+      "ratio": 16.621712916553317
+    },
+    {
+      "modo": "alto",
+      "texto": "border",
+      "fondo": "warning-bg",
+      "ratio": 16.621712916553317
+    },
+    {
+      "modo": "alto",
+      "texto": "border",
+      "fondo": "error-bg",
+      "ratio": 16.621712916553317
+    },
+    {
+      "modo": "alto",
+      "texto": "surface",
+      "fondo": "primary",
+      "ratio": 16.621712916553317
+    }
+  ],
+  "valoresEstiloFueraTokens": []
+}

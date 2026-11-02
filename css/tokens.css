@@ -1,0 +1,89 @@
+:root {
+  --cream: #f7f3e8;
+  --surface: #fffcf4;
+  --ink: #292e2b;
+  --muted: #3f4942;
+  --primary: #194e43;
+  --accent: #75331e;
+  --danger: #8a2927;
+  --success-bg: #e6efe5;
+  --warning-bg: #f6e9ca;
+  --error-bg: #fae7e1;
+  --border: #3f4942;
+  --focus: #1645aa;
+  --overlay: #292e2bd9;
+  --font: Verdana, sans-serif;
+  --scheme: light;
+  --text: 20px;
+  --heading: 28px;
+  --title: 36px;
+  --leading: 1.6;
+  --weight: 700;
+  --grow: 1;
+  --fraction: 1fr;
+  --zero: 0;
+  --space-1: 8px;
+  --space-2: 16px;
+  --space-3: 24px;
+  --space-4: 32px;
+  --space-5: 48px;
+  --button-height: 60px;
+  --field-height: 56px;
+  --line: 1px;
+  --focus-width: 3px;
+  --radius: 8px;
+  --sidebar: 300px;
+  --menu-width: 480px;
+  --choice-list-height: 320px;
+  --table-action-width: 180px;
+  --list-table-display: table;
+  --list-caption-display: table-caption;
+  --list-body-display: table-row-group;
+  --list-row-display: table-row;
+  --list-cell-display: table-cell;
+  --list-label-display: none;
+  --list-head-position: static;
+  --list-head-width: auto;
+  --list-head-height: auto;
+  --list-head-clip: none;
+  --list-head-overflow: visible;
+  --list-row-gap: 0;
+  --content: 1400px;
+  --form-width: 640px;
+  --card-width: 280px;
+  --icon-size: 32px;
+  --full: 100%;
+  --viewport: 100vh;
+  --dialog-height: 90vh;
+  --layer: 10;
+  --toolbar-max-height: 40vh;
+  --assistive-size: 1px;
+  --clip-half: 50%;
+  --skip-hidden-top: -100vh;
+  --skip-layer: 20;
+  --columns: 1fr 1fr;
+  /* Fase 4: gráficos e impresión. */
+  --chart-bar-height: 40px;
+  --print-margin: 12mm;
+  --print-paper: #f7f3e8;
+  --print-surface: #fffcf4;
+  --print-ink: #292e2b;
+  --print-primary: #194e43;
+  --print-border: #3f4942;
+}
+:root[data-font='1'] { --text: 24px; --heading: 32px; --title: 40px; }
+:root[data-font='2'] { --text: 28px; --heading: 36px; --title: 44px; }
+:root[data-contrast='high'] {
+  --scheme: dark;
+  --cream: #101810; --surface: #101810; --ink: #fff5d6;
+  --muted: #fff5d6; --primary: #fff5d6; --accent: #fff5d6;
+  --danger: #fff5d6; --success-bg: #101810; --warning-bg: #101810;
+  --error-bg: #101810; --border: #fff5d6; --focus: #ffdf70;
+}
+/* Los puntos de cambio también pertenecen a esta fuente de medidas. */
+@media (max-width: 1050px) { :root { --sidebar: 100%; --columns: 1fr; --space-5: 24px; } }
+/* Las listas se leen como registros con etiquetas cuando faltaría espacio. */
+@media (max-width: 1200px) {
+  :root { --list-table-display: block; --list-caption-display: block; --list-body-display: block; --list-row-display: grid; --list-cell-display: block; --list-label-display: block; --list-head-position: absolute; --list-head-width: var(--assistive-size); --list-head-height: var(--assistive-size); --list-head-clip: inset(var(--clip-half)); --list-head-overflow: hidden; --list-row-gap: var(--space-3); }
+}
+:root[data-font='1'],:root[data-font='2'] { --list-table-display: block; --list-caption-display: block; --list-body-display: block; --list-row-display: grid; --list-cell-display: block; --list-label-display: block; --list-head-position: absolute; --list-head-width: var(--assistive-size); --list-head-height: var(--assistive-size); --list-head-clip: inset(var(--clip-half)); --list-head-overflow: hidden; --list-row-gap: var(--space-3); }

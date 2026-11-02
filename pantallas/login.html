@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="es-CO">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Ingresar · Mi librería</title><link rel="stylesheet" href="../css/tokens.css"><link rel="stylesheet" href="../css/components.css"><script src="../js/data.js" defer></script><script src="../js/app.js" defer></script><script src="../js/listas-filtrables.js" defer></script><script src="../js/tablas-paginadas.js" defer></script></head>
+<body data-page="login">
+<div data-shell></div>
+<noscript>Para usar los botones y el menú, active JavaScript en su navegador. <a href="inicio.html">Ir a Inicio</a>.</noscript>
+<div class="layout"><aside data-menu></aside>
+<main id="contenido" tabindex="-1" aria-labelledby="titulo-pagina">
+  <header class="page-header"><p class="eyebrow">Mi librería · Bienvenido</p><h1 id="titulo-pagina">Ingresar</h1><p>Entre para trabajar con tranquilidad.</p></header>
+  <section class="panel form-panel" aria-labelledby="acceso-titulo">
+    <h2 id="acceso-titulo">Sus datos de acceso</h2>
+    
+    <form id="ingresar" novalidate>
+      <div class="field"><label for="usuario">Usuario</label><input id="usuario" name="usuario" autocomplete="username" autocapitalize="none" spellcheck="false" required aria-describedby="usuario-ayuda ingreso-error"><span class="hint" id="usuario-ayuda">Escriba su usuario.</span></div>
+      <div class="field"><label for="clave">Contraseña</label><input id="clave" name="clave" type="password" autocomplete="current-password" required aria-describedby="clave-ayuda ingreso-error"><span class="hint" id="clave-ayuda">Escriba su contraseña. Puede pegarla.</span></div>
+      <div class="actions"><button class="button" id="mostrar" type="button" aria-pressed="false" aria-controls="clave"><span aria-hidden="true">◉</span> Mostrar clave</button><button class="button" id="olvide" type="button"><span aria-hidden="true">?</span> Olvidé mi clave</button></div>
+      <p class="alert error" id="ingreso-error" role="alert" tabindex="-1" hidden></p>
+      <div class="actions"><button class="button primary" type="submit"><span aria-hidden="true">→</span> Ingresar</button></div>
+    </form>
+  </section>
+  <p class="hint">Tómese el tiempo que necesite. Esta pantalla no se cierra sola.</p>
+</main></div>
+</body></html>
